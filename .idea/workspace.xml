@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72868c37-b3b4-47ec-8cdc-5075c3c5b83c" name="Changes" comment="pytorch学习">
-      <change afterPath="$PROJECT_DIR$/code_05_Titanic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/titanic3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_06_CNNFashionMNIST.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/titanic_model.pt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +46,7 @@
       <recent name="C:\Users\DELL\PycharmProjects\pyTorch" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.code_05_Titanic">
+  <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="pyTorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,8 +130,16 @@
       <workItem from="1676742020193" duration="174000" />
       <workItem from="1676769306896" duration="7923000" />
       <workItem from="1676913810878" duration="1975000" />
-      <workItem from="1677399475648" duration="496000" />
+      <workItem from="1677399475648" duration="4638000" />
     </task>
+    <task id="LOCAL-00001" summary="pytorch学习">
+      <created>1677400077786</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677400077787</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
